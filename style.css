@@ -1,0 +1,142 @@
+.menu {
+    text-align: center;
+
+
+
+
+
+}
+
+.menu a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: bolder;
+    width: 200px;
+    display: inline-block;
+}
+
+.menu a:hover {
+    color: cornflowerblue;
+
+
+}
+
+.header {
+    text-align: center;
+    color: white;
+    background-image: url(images/polygons.png);
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-repeat: no-repeat;
+    background-position: top center;
+
+}
+
+.header a {
+    padding: 15px 30px;
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    border-radius: 20px;
+    margin-top: 15px;
+    display: block;
+    width: 80px;
+    text-align: center;
+    margin: 15px auto;
+
+
+
+
+
+}
+
+.header a:hover {
+
+    background-color: cornflowerblue;
+
+
+
+
+
+}
+
+.moder h1 {
+    text-align: center;
+
+
+
+}
+
+.moder p {
+    font-weight: bold;
+
+
+}
+
+.moders {
+    display: inline-block;
+    width: 20%;
+    margin: 20px 10px;
+    border: 2px solid black;
+    box-shadow: 5px 8px 8px gray;
+    
+
+
+
+
+}
+
+.moders img {
+
+    width: 100%;
+    
+
+
+
+
+}
+
+.modersdesc {
+padding: 10px;
+
+
+}
+
+.team {
+text-align: center;
+background-color:#f1f1f1;
+
+
+
+
+
+}
+
+.Join {
+ text-align: center;
+background-color: #f1f1f1;
+
+
+
+
+}
+
+.Join a {
+    padding: 15px 30px;
+    background-color: grey;
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+    margin-top: 15px;
+    display: block;
+    width: 80px;
+    text-align: center;
+    margin: 15px auto;
+
+
+
+
+
+
+}
